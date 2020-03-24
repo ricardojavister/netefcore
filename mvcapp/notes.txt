@@ -1,0 +1,17 @@
+Notes
+
+Models
+using System.ComponentModel.DataAnnotations;
+using Microsoft.EntityFrameworkCore;
+
+using Microsoft.Extensions.DependencyInjection
+
+Nugets 
+
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Design
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools.DotNet
+Microsoft.Extensions.DependencyInjection
+Microsoft.OpenApi
+Microsoft.VisualStudio.Web.CodeGeneration.Design

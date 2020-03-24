@@ -1,0 +1,19 @@
+.container {
+    width: 100%;
+}
+#success_message{ display: none;}
+
+.img-thumnail{
+	width: 100%;
+    max-width: 200px;
+    height: auto;
+}
+
+table.table-bordered.dataTable th
+{
+	text-align:center;
+}
+
+.action-buttons {
+    padding-top:3px;
+}
